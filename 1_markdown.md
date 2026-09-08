@@ -7,7 +7,6 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
 
 ## My First Markdown Document
 
